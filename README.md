@@ -1,4 +1,4 @@
-# Hacker-Rank-Inclusive-recruitment-problem
+# Hacker-Earth-Inclusive-Recruitment-Problem
 Hackathon solution
 
 This solution scored 99.97 (max score 100) in the Hacker Earth Hackathon for Amazon Business Research Analyst recruitment
